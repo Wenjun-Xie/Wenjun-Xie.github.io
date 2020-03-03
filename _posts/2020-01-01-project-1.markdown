@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2020-01-01
 img: jpcl.png
-title: test
+title: water and aqueous solutions
 alt: image-alt
 project-date: Jan 2020
 client: unknown 
