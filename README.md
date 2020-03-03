@@ -1,2 +1,1 @@
-# Wenjun-Xie.github.io
-Wenjun's personal website
+# Wenjun's personal website
