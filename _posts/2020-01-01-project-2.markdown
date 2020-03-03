@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2020-01-01
+img: chromatin.png
+title: chromatin structure and epigenetics
+alt: image-alt
+project-date: Jan 2020
+client: unknown
+category: unknown
+description: Why human has multiple cell types with the same DNA sequence? Because different cells have distinct epigenome. <a href="https://www.cell.com/biophysj/fulltext/S0006-3495(19)30306-6">We aim to understand how such epigenetic information is established and maintained using statistical physics.</a> One of our predictions that heterochromatin can spread through chromatin looping has been recently confirmed in experiment. The epigenome also affects the spatial organization of chromatin, which plays critical roles in genome function. <a href="https://www.biorxiv.org/content/10.1101/824417v1">Our analysis of single-cell super-resolution chromatin imaging data unraveled the phase separation mechanism caused by epigenome patterns. Importantly, we are able to quantify the energy landscape of chromatin folding using machine learning and statistical physics.</a>
+
+---

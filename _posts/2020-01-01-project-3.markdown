@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2020-01-01
+img: immuno.jpg
+title: biology at the system level
+alt: image-alt
+project-date: Jan 2020
+client: unknown
+category: unknown
+description: Stay tuned! Will update soon!
+
+---

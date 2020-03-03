@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2020-01-01
+img: jpcl.png
+title: test
+alt: image-alt
+project-date: Jan 2020
+client: unknown 
+category: unknown
+description: Water and aqueous solutions are important for life and are widespread in nature. Their properties can be best studied at the molecular level using molecular dynamics (MD) simulations. For instance, <a href="https://www.sciencedirect.com/science/article/pii/S2451929418303723">we combined ab-initio MD simulations, polarization-resolved femtosecond infrared pump-probe spectroscopy, and nuclear magnetic resonance spectroscopy to learn how TMAO interact with urea in marine animals.</a> We employed force-field MD simulations to explain the <a href="http://xlink.rsc.org/?DOI=C2FD20065A">salt effects on protein structure</a> and <a href="http://advances.sciencemag.org/cgi/doi/10.1126/sciadv.1600345">counterion effects on the ice nucleation on polyelectrolytes</a>. These studies prompted us to propose <a href="http://pubs.acs.org/doi/pdfplus/10.1021/jz402072g">a simple theory for the famous Hofmeister series</a>.
+
+---
