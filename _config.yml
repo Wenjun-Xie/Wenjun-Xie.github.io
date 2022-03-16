@@ -1,10 +1,10 @@
 # Site settings
 title: Wenjun Xie
-email: wjxie@mit.edu
+email: xwj123@gmail.com
 url: https://Wenjun-Xie.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Computional Chemist - Biophysicist"
+skills: "Computional Enzymology"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -42,17 +42,17 @@ social:
   - title: google
     url: https://scholar.google.com/citations?user=7B4qy2AAAAAJ&hl=zh-TW
   - title: twitter
-    url: http://twitter.com/xie_90
+    url: http://twitter.com/Wen_Jun_Xie
   - title: github
     url: http://github.com/Wenjun-Xie
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 77 Massachusetts Ave, Bldg 6-218M
-  - line: Cambridge, MA 02139
+  - line: Currently working from home
+  - line: in Cambridge
 
 # Credits content
-credits: <A HREF="mailto:wjxie@mit.edu">wjxie@mit.edu</A>
+credits: <A HREF="mailto:xwj123@gmail.com">xwj123@gmail.com</A>
 
 # Build settings
 markdown: kramdown
