@@ -2,7 +2,8 @@
 layout: default
 modal-id: 3
 date: 2020-01-01
-img: enzyme1.png
+img: summary_enzyme.png
+img1: enzyme1.png
 title: enzyme
 alt: image-alt
 project-date: Jan 2020

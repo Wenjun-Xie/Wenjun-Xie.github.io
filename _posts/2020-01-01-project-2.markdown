@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2020-01-01
 img: summary_chromatin.png
+img1: chromatin.png
 title: chromatin folding and epigenetics
 alt: image-alt
 project-date: Jan 2020

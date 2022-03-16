@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2020-01-01
 img: summary_solution.png
+img1: jpcl.png
 title: protein in solutions
 alt: image-alt
 project-date: Jan 2020
