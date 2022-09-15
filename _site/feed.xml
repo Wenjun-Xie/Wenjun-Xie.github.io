@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-05-23T23:22:55-05:00</updated>
+  <updated>2022-09-15T02:34:41-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,8 +22,8 @@
     <entry>
       <title type="html">enzyme</title>
       <link href="http://localhost:4000/unknown/2020/01/01/project-3/" rel="alternate" type="text/html" title="enzyme" />
-      <published>2020-01-01T00:00:00-06:00</published>
-      <updated>2020-01-01T00:00:00-06:00</updated>
+      <published>2020-01-01T00:00:00-05:00</published>
+      <updated>2020-01-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/unknown/2020/01/01/project-3</id>
       <content type="html" xml:base="http://localhost:4000/unknown/2020/01/01/project-3/"></content>
 
@@ -56,8 +56,8 @@
     <entry>
       <title type="html">chromatin folding and epigenetics</title>
       <link href="http://localhost:4000/unknown/2020/01/01/project-2/" rel="alternate" type="text/html" title="chromatin folding and epigenetics" />
-      <published>2020-01-01T00:00:00-06:00</published>
-      <updated>2020-01-01T00:00:00-06:00</updated>
+      <published>2020-01-01T00:00:00-05:00</published>
+      <updated>2020-01-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/unknown/2020/01/01/project-2</id>
       <content type="html" xml:base="http://localhost:4000/unknown/2020/01/01/project-2/"></content>
 
@@ -90,8 +90,8 @@
     <entry>
       <title type="html">protein in solutions</title>
       <link href="http://localhost:4000/unknown/2020/01/01/project-1/" rel="alternate" type="text/html" title="protein in solutions" />
-      <published>2020-01-01T00:00:00-06:00</published>
-      <updated>2020-01-01T00:00:00-06:00</updated>
+      <published>2020-01-01T00:00:00-05:00</published>
+      <updated>2020-01-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/unknown/2020/01/01/project-1</id>
       <content type="html" xml:base="http://localhost:4000/unknown/2020/01/01/project-1/"></content>
 
